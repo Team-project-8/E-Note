@@ -9,3 +9,4 @@ friend_A
 =======
 friend_A
 >>>>>>> friend_A
+QQQQ
