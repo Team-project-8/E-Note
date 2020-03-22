@@ -1,4 +1,6 @@
 # E-Note
-Self-service knowledge notes software
-test
-TTTTT
+<<<<<<< HEAD
+hello everybody
+=======
+hello everybody
+>>>>>>> Leohaoo
