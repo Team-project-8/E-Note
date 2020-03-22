@@ -9,4 +9,8 @@ friend_A
 =======
 friend_A
 >>>>>>> friend_A
-PPPP
+<<<<<<< HEAD
+QQQQ
+=======
+QQQQ
+>>>>>>> Q
