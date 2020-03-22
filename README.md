@@ -4,4 +4,8 @@ hello everybody
 =======
 hello everybody
 >>>>>>> Leohaoo
-friend_B
+<<<<<<< HEAD
+friend_A
+=======
+friend_A
+>>>>>>> friend_A
